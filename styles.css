@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+body {
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+
+	font-family: 'Comfortaa', cursive;
+
+}
+
+p {
+	font-size: 1.3rem;
+}
+
+hr {
+	width: 10%;
+	border-style: dotted;
+	border-width: 1rem;
+	border-bottom: 0;
+	border-left: 0;
+	border-right: 0;
+	margin: 0 auto;
+}
+
+#title {
+	background-color: #faf7f0;
+	padding: 5% 15%;
+	text-align: center;
+}
+
+#title .title-container {
+	text-align: left;
+	position: relative;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+#title h1 {
+	font-weight: bold;
+}
+
+#title img {
+	border-radius: 100%;
+	width: 40%;
+}
+
+#sobre-mim {
+	background-color: #faf7f0;
+	padding: 5% 15%;
+}
+
+#projetos {
+	background-color: #faf7f0;
+	padding: 5% 15%;
+}
+
+#projetos hr {
+	padding-bottom: 10%;
+}
+
+#projetos h2 {
+	text-align: left;
+}
+
+#projetos img {
+	width: 80%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#habilidades {
+	background-color: #faf7f0;
+	padding: 5% 15%;
+}
+
+#habilidades hr {
+	padding-bottom: 10%;
+}
+
+#habilidades h2 {
+	text-align: left;
+}
+
+#habilidades img {
+	width: 5%;
+}
+
+#educacao {
+	background-color: #faf7f0;
+	padding: 5% 15%;
+}
+
+#educacao hr {
+	padding-bottom: 10%;
+}
+
+#educacao h2 {
+	text-align: left;
+}
+
+#educacao img {
+	width: 80%;
+}
